@@ -1,0 +1,8 @@
+.bg-loader {background-color: #eee; position: fixed; top: 0; left: 0; right: 0; bottom: 0; z-index: 9999; display: flex; justify-content: center; align-items: center;}
+.bg-loader .loader {width: 100px; height: 100px; border: 3px solid #fff; border-radius: 50%; border-top-color: #3498DB; border-right-color: #3498DB; border-bottom-color: #3498DB; animation: puterin .9s linear infinite;}
+.label {background-color: #3498DB; color: #fff;}
+@media screen and (max-width: 768px){.container {width: 90%;}}
+header h1 {text-align: center; float: none;}
+header ul {text-align: center; float: none;}
+section h3 p {text-align: center; float: none;}
+.box .col-4 {width: 100%; float: none;}
